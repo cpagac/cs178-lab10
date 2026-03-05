@@ -1,3 +1,10 @@
+# name: Coleman Pagac
+# date: 2026-03-04
+# description: Implementation of CRUD operations with DynamoDB — CS178 Lab 10
+# proposed score: 5 (out of 5) -- if I don't change this, I agree to get 0 points.
+
+
+
 import boto3
 
 
